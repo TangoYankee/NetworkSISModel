@@ -20,7 +20,7 @@ public class BARTSQL {
         String JDBCDriver = "com.mysql.jdbc.Driver";
         String dbURL = "jdbc:mysql://localhost:3306/subways?";
         String username = "root";
-        String password = "B10@D4t4St0r3";
+        String password = "";
 
         //Object of a new database
         SQLDatabase sqldatabase = new SQLDatabase(JDBCDriver, dbURL, username, password);
