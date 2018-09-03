@@ -22,7 +22,7 @@ public class BARTSISAPI {
             throws ClassNotFoundException, SQLException, InterruptedException, FileNotFoundException, ParserConfigurationException, SAXException, IOException {
         
         //API Key
-        String key = "QLZ9-58EH-93BT-DWE9";
+        String key = "";
         //dimensions
         int width = 700;
         int height = 700;
